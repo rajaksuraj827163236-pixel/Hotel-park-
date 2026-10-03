@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Jagrati",
+  "description": "Luxury resort and hotel experience with suite bookings, dining menus, event lawn reservations, and guest amenities inspired by premier Indian resorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
